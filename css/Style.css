@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+#contenidoIndex{
+    background-color: #000000da;
+    width: 95%;
+    height: 100%;
+    font-family: sans-serif;
+    color: white;
+    text-align: justify;
+}
+li{
+    display: block;
+    text-align: left;
+}
+#barralateralIndex{
+    height: 100%;
+    float: left;
+    margin-top: auto;
+}
+#contenidoPrincipalIndex{
+    margin-left: 12%;
+}
+#seccion1Index{
+    background-color: #00ffff;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 1%;
+}
+#seccion2Index{
+    background-color: #ffff00;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#seccion3Index{
+    background-color: #ffa500;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#seccion4Index{
+    background-color: #ff0000;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#imgContacto{
+    border-style: solid;
+    float: left;
+}
+#contenidoContacto{
+    padding-left: 25%;
+    padding-top: 4%;    
+}
+#inicioContacto{
+    float: right;
+}
